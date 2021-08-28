@@ -77,6 +77,9 @@ a {
     margin: 0px 16.5px 0 16.5px;
 }
 
+a:visited {
+    color: #323232;
+}
 
 
 input::placeholder {
@@ -84,8 +87,4 @@ input::placeholder {
     text-align: left;
     padding-left: 9.28px;
     ;
-}
-
-a:visited {
-    color: #323232;
 }
