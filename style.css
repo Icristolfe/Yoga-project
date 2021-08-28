@@ -88,3 +88,5 @@ input::placeholder {
     padding-left: 9.28px;
     ;
 }
+
+input:focus { text-indent: -9999em; }
