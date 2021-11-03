@@ -5,7 +5,7 @@
 
 <img src="./assets/yoga-project.png" alt="yoga-project">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+Projeto com Html e css.
 
 ### Ajustes e melhorias
 
@@ -13,7 +13,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Criação HTML
 - [x] Criação CSS
-- [ ] Atualização Layout
 
 
 #
