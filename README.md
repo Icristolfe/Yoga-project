@@ -1,21 +1,11 @@
 #Yoga-project
 
 
-
+<h1> Yoga App ( HTML, CSS ) </h1>
+<p> Página de Login de uma aplicação de yoga </p>
 
 <img src="./assets/yoga-project.png" alt="yoga-project">
 
-Projeto com Html e css.
-
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Criação HTML
-- [x] Criação CSS
-
-
-#
 ## 🤝 Colaboradores
 
 <table>
